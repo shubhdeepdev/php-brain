@@ -1,0 +1,60 @@
+GoLive Open Attribution License (GOAL-1.0)
+Copyright (c) 2025–present
+Author: Shubhdeep Singh (Go Live Web Solutions)
+
+This is an open and permissive license. You may use this software (“php-brain”)
+for any purpose, including commercial, private, enterprise, closed-source, 
+offline, online, distributed, hybrid, embedded, AI, ML, cloud, edge, mobile,
+SaaS, PaaS, API, backend, frontend, or any other usage, current or future.
+You may modify, copy, publish, embed, integrate, convert, or distribute the
+software in any form, medium, or technology, whether existing now or invented
+in the future.
+
+THE ONLY MANDATORY REQUIREMENT (APPLIES TO ALL USES):
+
+Any use of this software — whether modified or unmodified, direct or indirect —
+MUST include clear, publicly visible, persistent attribution to the original
+author.
+
+Required attribution text (or a substantially similar variant):
+
+"Powered by php-brain — developed by Shubhdeep Singh (Go Live Web Solutions)"
+
+This attribution requirement applies universally, including but not limited to:
+
+- Websites, mobile apps, desktop apps, and cross-platform applications  
+- SaaS, PaaS, APIs, backend systems, microservices, serverless environments  
+- AI/ML models, neural networks, inference systems, agents, pipelines  
+- Commercial software, enterprise systems, internal company tools  
+- Embedded systems, IoT devices, hardware firmware, kiosks, terminals  
+- Cloud platforms, edge computing, distributed systems, container clusters  
+- Documentation, help pages, onboarding screens, knowledge bases, legal pages  
+- VR/AR environments, XR systems, digital interactive systems  
+- Blockchain, smart contracts, decentralized apps using or calling this code  
+- Command-line tools, scripts, executables, packaged binaries  
+- Any public or private interface where this software provides functionality  
+
+VISIBLE ATTRIBUTION LOCATION (one or more required):
+
+1. A website footer or public UI element  
+2. An “About”, “Credits”, “Info”, or “Legal” page  
+3. Public documentation, API docs, README, or docs site  
+4. Terms of Service, Privacy Policy, or License Notice page  
+5. Visible screen, modal, splash, or credits screen inside the app  
+6. Publicly accessible release notes or changelogs  
+7. Public metadata such as composer.json, package metadata, or manifest  
+8. Any other public location where end-users or external viewers can see it  
+
+Attribution must NOT be:
+- hidden,
+- removed,
+- minimized,
+- obscured with CSS or code,
+- placed in non-public internal documents,
+- placed somewhere invisible to end-users.
+
+Modified versions MUST retain this attribution requirement, without exception.
+
+There are no other restrictions.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
